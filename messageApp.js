@@ -1,3 +1,12 @@
+/**
+*
+* Date: 23-AUG-2015
+* Authors: Austin Chen, Eugene Xie
+* Version: 1.0
+*
+* JS code.
+*/
+
 if (Meteor.isClient) {
   // counter starts at 0
   Session.setDefault('counter', 0);
